@@ -16,6 +16,7 @@ It is mostly an automatically process except clicking the check website button. 
 #How to change default browser?
 
 It is quite simple to do it you have to:-
+
 1)Open settings and search default apps
 
 -->If no default apps comes up then open apps and click the 3 dots on the top right hand side. Some options will come after this and you can click on default apps here.
